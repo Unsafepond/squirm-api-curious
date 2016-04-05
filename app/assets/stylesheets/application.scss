@@ -1,0 +1,43 @@
+@import "materialize";
+@import url(https://fonts.googleapis.com/css?family=Exo+2:400,900|Shadows+Into+Light);
+
+.shadows {
+  font-family: 'Shadows Into Light', cursive;
+}
+
+.exo {
+  font-family: 'Exo 2', sans-serif;
+}
+
+.small-left-margin {
+  margin-left: 20px;
+}
+
+.med-left-margin {
+  margin-left: 30px;
+}
+
+.lrg-left-margin {
+  margin-left: 60px;
+}
+
+.small-top-margin {
+  margin-top: 20px;
+}
+
+.lrg-top-margin {
+  margin-top: 40px;
+}
+
+.card {
+  height: 375px;
+}
+
+.profile-header img {
+  width: 120px;
+  height: 120px;
+}
+
+.card-link:hover {
+  color: #9900ff;
+}
