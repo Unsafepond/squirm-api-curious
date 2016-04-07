@@ -27,7 +27,9 @@ gem "figaro"
 
 gem "materialize-sass"
 
-gem 'omniauth-twitch', git: 'git://github.com/adabei/omniauth-twitch.git'
+gem 'omniauth-twitch', git: 'git://github.com/WebTheoryLLC/omniauth-twitch.git'
+
+gem "faraday"
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'

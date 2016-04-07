@@ -1,8 +1,8 @@
 GIT
-  remote: git://github.com/adabei/omniauth-twitch.git
-  revision: 4b0eec35f0aaf694e1a9ddcfafbf2d827dfb1cce
+  remote: git://github.com/WebTheoryLLC/omniauth-twitch.git
+  revision: 19fe2104b8441df0926266a1d40834b9c3e82f59
   specs:
-    omniauth-twitch (0.1.0)
+    omniauth-twitch (0.2.0)
       omniauth-oauth2 (~> 1.1)
 
 GEM
@@ -173,6 +173,7 @@ PLATFORMS
 DEPENDENCIES
   byebug
   coffee-rails (~> 4.1.0)
+  faraday
   figaro
   jbuilder (~> 2.0)
   jquery-rails
